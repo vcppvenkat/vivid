@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+C:\Venkat\workspace\Vivid\workspace\vivid\trunk\.metadata\.plugins\org.eclipse.jdt.core
+3204452095.index
